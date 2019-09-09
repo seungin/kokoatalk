@@ -14,3 +14,5 @@ toy project for learning HTML and CSS
 ### useful sites
 
 - [Font Awesome](https://fontawesome.com)
+- [Reset.css](https://meyerweb.com/eric/tools/css/reset)
+- [Normalize.css](https://necolas.github.io/normalize.css)
