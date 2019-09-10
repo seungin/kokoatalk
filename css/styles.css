@@ -1,6 +1,7 @@
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap");
 
 @import "reset.css";
+@import "status-bar.css";
 
 body {
   background-color: white;

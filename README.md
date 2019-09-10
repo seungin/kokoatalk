@@ -16,3 +16,5 @@ toy project for learning HTML and CSS
 - [Font Awesome](https://fontawesome.com)
 - [Reset.css](https://meyerweb.com/eric/tools/css/reset)
 - [Normalize.css](https://necolas.github.io/normalize.css)
+- [Flexbox Froggy](http://flexboxfroggy.com)
+- [Google Fonts](https://fonts.google.com)
