@@ -2,6 +2,7 @@
 
 @import "reset.css";
 @import "status-bar.css";
+@import "header.css";
 
 body {
   background-color: white;
