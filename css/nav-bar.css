@@ -3,14 +3,14 @@
   width: 100%;
   left: 0px;
   bottom: 0px;
-  padding: 20px 0px;
+  padding: 20px 50px;
   background-color: #fcfcfc;
   border-top: 1px solid #f7f7f7;
 }
 
 .nav .nav__list {
   display: flex;
-  justify-content: space-around;
+  justify-content: space-between;
   align-items: center;
 }
 

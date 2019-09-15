@@ -5,6 +5,10 @@
 @import "header.css";
 @import "nav-bar.css";
 
+* {
+  box-sizing: border-box;
+}
+
 body {
   background-color: white;
   padding: 10px 20px;
