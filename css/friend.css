@@ -32,9 +32,8 @@
 
 .friend__content .friend__status,
 .friend__content .friend__snippet,
-.friend .friend__now-listening,
 .friend .friend__timestamp {
-  opacity: 0.5;
+  opacity: 0.6;
 }
 
 .friend__content .friend__status,
@@ -45,4 +44,18 @@
 
 .friend__content .friend__snippet {
   font-size: 85%;
+}
+
+.friend .friend__now-listening {
+  padding: 5px 10px;
+  border-radius: 20px;
+  border: 1px solid #52e084;
+}
+
+.friend__now-listening span {
+  opacity: 0.6;
+}
+
+.friend__now-listening i {
+  font-size: 10px;
 }
