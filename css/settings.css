@@ -1,0 +1,18 @@
+.settings {
+  border-top: 1px solid #f7f7f7;
+  padding-top: 15px;
+}
+
+.settings .settings__setting {
+  padding: 15px 0px;
+  cursor: pointer;
+}
+
+.settings .settings__icon {
+  font-size: 20px;
+  margin-right: 20px;
+}
+
+.settings .settings__title {
+  font-size: 16px;
+}
