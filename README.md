@@ -18,3 +18,4 @@ toy project for learning HTML and CSS
 - [Normalize.css](https://necolas.github.io/normalize.css)
 - [Flexbox Froggy](http://flexboxfroggy.com)
 - [Google Fonts](https://fonts.google.com)
+- [Subtle Patterns](https://www.toptal.com/designers/subtlepatterns)
