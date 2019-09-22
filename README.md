@@ -19,3 +19,4 @@ toy project for learning HTML and CSS
 - [Flexbox Froggy](http://flexboxfroggy.com)
 - [Google Fonts](https://fonts.google.com)
 - [Subtle Patterns](https://www.toptal.com/designers/subtlepatterns)
+- [uiGradients](https://uigradients.com)
