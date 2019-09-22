@@ -60,11 +60,33 @@
             </div>
           </div>
         </li>
+        <li class="incoming-message message">
+          <img src="images/avatar.jpg" alt="" class="message__avatar" />
+          <div class="message__content">
+            <span class="message__author">Jang Seunghun</span>
+            <div class="message__bubble">
+              Neque porro quisquam est qui dolorem ipsum quia dolor sit amet,
+              consectetur, adipisci velit...
+            </div>
+          </div>
+          <span class="message__timestamp">15:19</span>
+        </li>
+        <li class="sent-message message">
+          <span class="message__timestamp">15:22</span>
+          <div class="message__content">
+            <div class="message__bubble">
+              There is no one who loves pain itself, who seeks after it and
+              wants to have it, simply because it is pain...
+            </div>
+          </div>
+        </li>
       </ul>
     </main>
     <div class="chat__write">
       <div class="chat__write-column">
-        <i class="far fa-plus-square"></i>
+        <span class="chat__write-icon">
+          <i class="far fa-plus-square"></i>
+        </span>
       </div>
       <div class="chat__write-column">
         <input type="text" placeholder="Send message" />
@@ -73,6 +95,8 @@
         <span class="chat__write-icon">
           <i class="far fa-smile-wink"></i>
         </span>
+      </div>
+      <div class="chat__write-column">
         <span class="chat__write-icon">
           <i class="fas fa-microphone"></i>
         </span>
