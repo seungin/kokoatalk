@@ -1,15 +1,20 @@
 .chat-body {
-  padding: 10px 0px;
-}
-
-.chat-body .status-bar,
-.chat-body .header {
-  padding: 0px 20px;
-}
-
-.chat {
+  padding: 100px 0px 0px 0px;
   background-image: url("../images/chat-bg.png");
-  min-height: 100vh;
+  min-height: 200vh;
+}
+
+.chat-body .header-wrapper {
+  background-color: white;
+  position: fixed;
+  top: 0px;
+  width: 100%;
+  padding-top: 10px;
+}
+
+.header-wrapper .status-bar,
+.header-wrapper .header {
+  padding: 0px 20px;
 }
 
 .chat .chat__messages {
@@ -20,9 +25,8 @@
 }
 
 .chat .chat__timestamp {
-  background-color: #000000;
+  background-color: #b7b7b7;
   color: #f7f7f7;
-  opacity: 0.3;
   margin: 15px 0px;
   padding: 7px 10px;
   border-radius: 20px;
