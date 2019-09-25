@@ -7,17 +7,7 @@
 .friend .friend__avatar {
   width: 50px;
   border-radius: 40%;
-  margin-right: 15px;
-}
-
-.friend .friend__avatar.m-avatar {
-  width: 60px;
-  border-radius: 40%;
-}
-
-.friend .friend__avatar.g-avatar {
-  width: 70px;
-  border-radius: 40%;
+  margin-right: 10px;
 }
 
 .friend .friend__column {
